@@ -29,6 +29,8 @@ const Footer = () => {
                 <li>9811304554</li>
                 <li>yummybites@gmail.com</li>
             </ul>
+            <h2>REVIEW</h2>
+            <button><a href="https://forms.gle/jPwDJLB8RrJuudFc7" target='_blank'>Review Form</a></button>
         </div>
       </div>
       <hr />
