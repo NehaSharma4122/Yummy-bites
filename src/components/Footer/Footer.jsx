@@ -27,10 +27,10 @@ const Footer = () => {
             <h2>GET IN TOUCH</h2>
             <ul>
                 <li>9811304554</li>
-                <li>yummybites@gmail.com</li>
+                <li><a href="mailto:yummybites@gmail.com">yummybites@gmail.com</a></li>
             </ul>
             <h2>REVIEW</h2>
-            <button><a href="https://forms.gle/jPwDJLB8RrJuudFc7" target='_blank'>Review Form</a></button>
+            <button className='form'><a href="https://forms.gle/jPwDJLB8RrJuudFc7" target='_blank'>Review Form</a></button>
         </div>
       </div>
       <hr />

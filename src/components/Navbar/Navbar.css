@@ -1,8 +1,18 @@
+.navbar-container{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
 .navbar{
-    padding: 20px 0;
+    padding: 10px 20px;
     display: flex;
     justify-content: space-between;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     align-items: center;
+    background-color: white;
+    /* position: fixed; */
 }
 .navbar .logo{
     width: 150px;

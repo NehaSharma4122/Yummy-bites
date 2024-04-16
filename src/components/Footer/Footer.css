@@ -46,6 +46,16 @@
     border: none;
 }
 
+.footer-content-right button{
+    width: 150px;
+    height: 50px;
+    color: #323232;
+    font-size: 14px;
+    background-color: white;
+    border-radius: 50px;
+
+}
+
 @media (max-width:750px){
     .footer-content{
         display: flex;
